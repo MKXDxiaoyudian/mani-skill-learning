@@ -1,0 +1,11 @@
+# 虚拟环境（1.7 GB，绝不进 git）
+.venv/
+# 录制的视频
+videos/
+# Python 缓存
+__pycache__/
+*.py[cod]
+# macOS 噪音
+.DS_Store
+# 日志
+*.log
